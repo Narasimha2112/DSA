@@ -4,7 +4,7 @@
 # Given an array nums and a target target, return indices of the two numbers such that they add up to target.
 # You may assume exactly one solution, and you cannot use the same element twice.
 
-# Approach — Brute Force (O(n²))
+# Approach — Brute Force Time-(O(n²)), Space-(O(1))
 
 class Solution:
     def twoSum(self, nums, target):
